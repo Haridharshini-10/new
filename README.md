@@ -320,7 +320,8 @@ This portfolio project demonstrates professional-level data analysis and visuali
 - **1.5-day LOS reduction** strategy quantified  
 - **Interactive dashboards** created with Plotly
 - **Actionable insights** generated for healthcare management
-- <img width="1902" height="907" alt="image" src="https://github.com/user-attachments/assets/a3a3a01e-10e5-4e44-b5d6-c6d657026668" />
+- **<img width="1902" height="906" alt="image" src="https://github.com/user-attachments/assets/62f85eb6-5355-4f1d-9647-8b0a8c3f47e0" />
+**
 
 
 - 
