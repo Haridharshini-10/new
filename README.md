@@ -320,5 +320,9 @@ This portfolio project demonstrates professional-level data analysis and visuali
 - **1.5-day LOS reduction** strategy quantified  
 - **Interactive dashboards** created with Plotly
 - **Actionable insights** generated for healthcare management
+- <img width="1902" height="907" alt="image" src="https://github.com/user-attachments/assets/a3a3a01e-10e5-4e44-b5d6-c6d657026668" />
+
+
+- 
 
 Perfect for demonstrating data science, analytics, and business intelligence capabilities to potential employers.
